@@ -1,6 +1,6 @@
 {
     "private": true,
     "dependencies": {
-        "immutable": "^3.7.3"
+        "immutable": "^5.1.5"
     }
 }
